@@ -6,8 +6,9 @@
 ## Handoff snapshot
 
 - Last updated: 2026-11-24
-- Repository status: Git repository initialized on branch `main`; no commit has
-  been made and no GitHub remote is connected.
+- Repository status: local `main` tracks `origin/main` at GitHub. The working
+  tree is clean after the bootstrap commit and the merge with the repository's
+  initial README.
 - Active implementation status: bootstrap documentation is complete. The next
   proposed implementation change is `001-publication-history`, but it has not
   been approved or deployed.

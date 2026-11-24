@@ -5,4 +5,5 @@
 - [x] Add `AGENTS.md`, `PLANS.md`, and repository README.
 - [x] Add architecture and current-state handoff documents.
 - [x] Add spec-driven change directories.
-- [ ] Owner reviews the tree and authorizes an initial commit.
+- [x] Owner reviewed the tree, authorized the initial commit, and synchronized
+      it with GitHub `main`.
