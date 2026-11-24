@@ -3,8 +3,8 @@
 ## Mission
 
 Signal is an AWS-native, daily personal news curator. It must preserve the
-approved architecture in `docs/architecture/approved-target.md` and keep
-deterministic safety controls separate from agentic editorial work.
+complete approved requirements in `docs/requirements/approved-architecture-brief.md`
+and keep deterministic safety controls separate from agentic editorial work.
 
 ## Start every task
 
@@ -23,8 +23,10 @@ deterministic safety controls separate from agentic editorial work.
 - Preserve the existing AWS prototype as a baseline unless the owner explicitly
   authorizes a change. The owner has authorized updating the existing state
   machine rather than creating a second workflow.
-- Do not deploy, commit, push, delete resources, or reveal credentials unless
-  the current chat explicitly authorizes that exact action.
+- Do not deploy, commit, delete resources, or reveal credentials unless the
+  current chat explicitly authorizes that exact action.
+- Never run `git push`. The owner reviews and pushes commits personally. This
+  applies even when a commit has been explicitly authorized.
 
 ## Safety
 

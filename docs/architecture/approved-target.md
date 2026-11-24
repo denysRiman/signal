@@ -1,8 +1,9 @@
 # Approved target architecture
 
-This document is the durable requirements record derived from the project
-owner's approved architecture brief. It records requirements, not a claim that
-they are implemented.
+This document is a concise architectural orientation. The complete normative
+source of truth is
+[`../requirements/approved-architecture-brief.md`](../requirements/approved-architecture-brief.md).
+It records requirements, not a claim that they are implemented.
 
 ## Objective
 

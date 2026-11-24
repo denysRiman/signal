@@ -6,14 +6,17 @@
 ## Handoff snapshot
 
 - Last updated: 2026-11-24
-- Repository status: local `main` tracks `origin/main` at GitHub. The working
-  tree is clean after the bootstrap commit and the merge with the repository's
-  initial README.
-- Active implementation status: bootstrap documentation is complete. The next
-  proposed implementation change is `001-publication-history`, but it has not
-  been approved or deployed.
+- Repository status: local `main` tracks `origin/main`. Requirements capture is
+  committed locally and awaits the owner's manual push. Agents may create a
+  locally authorized commit but must never run `git push`.
+- Active implementation status: complete requirements capture is finished. The
+  next proposed AWS implementation change remains
+  `001-publication-history`, which has not been approved or deployed.
 - Chat workflow: the owner intends to use one new chat per small step. Treat
   this file, `PLANS.md`, and the active change files as the durable handoff.
+- Canonical requirements: read
+  `docs/requirements/approved-architecture-brief.md` and
+  `docs/requirements/traceability.md`, not only the short architecture summary.
 
 ## Approved project direction
 

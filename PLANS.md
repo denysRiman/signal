@@ -28,4 +28,5 @@ Only the project owner can mark a change `approved`. A change is not
 | Change | Status | Outcome |
 | --- | --- | --- |
 | [`000-bootstrap`](specs/changes/000-bootstrap/) | completed | Establish repository, durable guidance, and handoff documents. |
+| [`002-requirements-capture`](specs/changes/002-requirements-capture/) | completed | Preserve the complete approved architecture and ADR traceability for future chats. |
 | [`001-publication-history`](specs/changes/001-publication-history/) | draft | Create and verify the publication-history foundation before wiring it into the workflow. |
