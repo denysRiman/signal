@@ -2,7 +2,9 @@
 
 Signal is an AWS-native personal news curator for an English-learning software
 engineer in Austria. It is being rebuilt as a reproducible, safety-bounded
-agentic system using AWS CDK and Python.
+agentic system using AWS CDK and Python. Its approved target includes bounded
+news research, editorial curation, and Telegram delivery through Amazon
+Bedrock AgentCore.
 
 ## Repository status
 
