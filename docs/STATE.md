@@ -17,6 +17,10 @@
 - Canonical requirements: read
   `docs/requirements/approved-architecture-brief.md` and
   `docs/requirements/traceability.md`, not only the short architecture summary.
+- Repository-local skills: use `.agents/skills/signal-change-workflow/` for a
+  scoped change, `.agents/skills/signal-requirements-traceability/` for design
+  decisions, and `.agents/skills/signal-aws-console-verification/` for an
+  approved AWS action with UI learning checks.
 
 ## Approved project direction
 

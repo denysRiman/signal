@@ -12,6 +12,8 @@ and keep deterministic safety controls separate from agentic editorial work.
 2. Read `PLANS.md` and the relevant change under `specs/changes/`.
 3. Confirm the task's scope, acceptance criteria, and verification steps before
    editing code or AWS resources.
+4. Use the applicable repository skill from `.agents/skills/` for change
+   workflow, requirements traceability, or an approved AWS console change.
 
 ## Working agreement
 
